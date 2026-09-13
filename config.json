@@ -2,7 +2,7 @@
   "__comment_server__": "=== SERVER CONNECTION SETTINGS ===",
   
   "_comment_host": "Your server's IP address or domain (Example: 'server.aternos.me')",
-  "serverHost": "server.aternos.me",
+  "serverHost": "diamondcore.mcsh.io",
   
   "_comment_port": "Server port. Leave it as 25565 if you don't know (Java default).",
   "serverPort": 25565,
